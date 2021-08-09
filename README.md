@@ -4,8 +4,10 @@
 
 # Ikhtiyor Vokhobjonov 
 
-# Education
 Focus more on to write maintainable easy to read code. Interested in teaching students in programming, easy, fun, interactive way. Team player, loves pair programming. Follow Agile methodologies to deliver high quality software.
+
+# Education
+
 
 Skills:  REACT / JS / HTML / CSS
 
