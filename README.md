@@ -3,7 +3,7 @@
 #### I am a Software Developer.   
 ![I am a Software Developer.   ](https://scontent.ftas6-1.fna.fbcdn.net/v/t1.6435-9/231905257_1007811896683882_1397177418329529900_n.jpg?_nc_cat=100&ccb=1-4&_nc_sid=e3f864&_nc_ohc=6q5640O7qqIAX91RW9C&_nc_ht=scontent.ftas6-1.fna&oh=e34ff6ce631f1cc754acb925b4082069&oe=6135813F)
 
-#Education
+# Education
 Focus more on to write maintainable easy to read code. Interested in teaching students in programming, easy, fun, interactive way. Team player, loves pair programming. Follow Agile methodologies to deliver high quality software.
 
 Skills:  REACT / JS / HTML / CSS
