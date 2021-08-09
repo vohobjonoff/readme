@@ -17,6 +17,7 @@ Focus more on to write maintainable easy to read code. Interested in teaching st
 
 * ⚛️ React
 * 💻 HTML / CSS / JS 
+* 👨🏻‍💻 DevOPS
 * 🔎 SEO 
 
 ## Examples of work 
