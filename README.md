@@ -8,6 +8,10 @@ Focus more on to write maintainable easy to read code. Interested in teaching st
 
 # Education
 
+## Andijan Machine Building  Institute of Uzbekistan  
+## 2019-gradueted 
+
+
 
 Skills:  REACT / JS / HTML / CSS
 
