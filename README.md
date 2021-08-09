@@ -19,13 +19,16 @@ Focus more on to write maintainable easy to read code. Interested in teaching st
 * 💻 HTML / CSS / JS 
 * 🔎 SEO 
 
+## Examples of work 
 
+### biznesrivoj.uz
+### kingbook.uz
+### somafast.com 
 
+## In progress
 
-
-Skills:  REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on Educational platform 
+- 🔭 I’m currently working on Educational platform  
+- 👮‍♂️ I'm currently working on Ministry of Justice platform 
 - 🌱 I’m currently learning Hard parts of Javascript 
 
 
