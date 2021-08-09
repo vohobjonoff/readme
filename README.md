@@ -11,7 +11,13 @@ Focus more on to write maintainable easy to read code. Interested in teaching st
 ## Andijan Machine Building  Institute of Uzbekistan (2019-graduated) 
 
 ## Email **vohobjonofff@gmail.com**
-## Phone **+998-93-412-77-08**
+## Phone **+998-93-412-77-08** 
+
+## Skills and Experience 
+
+* ⚛️ React
+* 💻 HTML / CSS / JS 
+* 🔎 SEO 
 
 
 
