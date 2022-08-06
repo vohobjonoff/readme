@@ -31,6 +31,7 @@ Focus more on to write maintainable easy to read code. Interested in teaching st
 - 🔭 I’m currently working on Educational platform  
 - 👮‍♂️ I'm currently working on Ministry of Justice platform 
 - 🌱 I’m currently learning Hard parts of Javascript 
+## somethisng added
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vohobjonoff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ihtiyor-vohobjonov-70b675165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOCafb%2FhgT5CvbNZP6CvHIA%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ihtiyor.vohobjonov.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/vohobjonoff)  
